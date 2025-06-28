@@ -1,6 +1,5 @@
 # 🚀 Welcome to My GitHub! I'm Muhammad Ahsan
 
-![Profile Banner](https://media.licdn.com/dms/image/v2/D4D16AQEGWrvDQ-nyxw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735669384243?e=1746662400&v=beta&t=jC69wi9vtWI9CK8CkMEv2i4N-47oJY-5cQAfjw_AZ88)
 
 <h2 align="center">Full Stack Developer | Cloud Engineer | Open Source Contributor</h2>
 
